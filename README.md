@@ -73,3 +73,10 @@ console.log('Hello');
 * [x] tarea uno
 * [ ] tarea uno
 * [ ] tarea uno
+
+<!-- Para mencionar otro usuario de github -->
+@faztweb
+
+<!-- Emojis -->
+:smirk: :+1:
+
